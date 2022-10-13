@@ -1,6 +1,8 @@
-element.style {
-}
-body {
+p.styletest{ 
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
     overflow: hidden;
     margin: 0;
     min-width: 980px;
@@ -10,4 +12,6 @@ body {
     font-family: "Helvetica Neue",Roboto,Helvetica,Arial,"Lucida Grande",sans-serif;
     font-weight: 300;
     background-color: #000;
+    color: #FFF;
+
 }
