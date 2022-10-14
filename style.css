@@ -55,6 +55,15 @@ h1.TitleP1 {
   margin-top: 10px;
   text-align: center;
 }
+img.LMF {/*Image sized for responsize layout/Also Note Native Res of Image is 1024px X 1048px*/
+  margin:auto;/*Auto center horizontally*/
+  width: 100%;
+  height: 300x;
+  padding: auto;
+  display: flex;/*Responsive design*/
+  border-radius: 90px;/*Rounded Border*/
+  text-align: center;
+ }
 h2.EcoTitle {
   color:azure;
   font-size:60px;
