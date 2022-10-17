@@ -54,9 +54,10 @@ h1.TitleP1 {
   margin-top: 10px;
   text-align: center;
 }
-img.LMF {/*Image full size to see the detail in mycelium growth & structure/Also Note Native Res of Image is 4023px X 3024px*/
+img.LMF {/*Image resized in Photoshop*/
   margin:auto;/*Auto center horizontally*/
   width: 100%;
+  height: auto;
   height: 800px;
   width: 649px;
   margin-bottom: 15px;
